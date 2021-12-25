@@ -1,0 +1,31 @@
+
+  html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after { 
+    box-sizing: inherit; 
+  }
+
+  div {
+    width: 100%;
+    padding: 100px;
+  }
+
+  .one {
+    background: thistle;
+  }
+
+  .two {
+    background: mistyrose;
+  }
+
+  .three {
+    background: coral;
+  }
+
+  button {
+      border: 1px solid rgba(0, 0, 0, 0.1);
+    background: thistle;
+
+  }
